@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>Home - Serv</title>
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,700,700i,600,600i">
+    <link rel="stylesheet" href="assets/fonts/simple-line-icons.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.css">
+    <link rel="stylesheet" href="assets/css/smoothproducts.css">
+</head>
+
+<body>
+    <nav class="navbar navbar-light navbar-expand-lg fixed-top bg-white clean-navbar">
+        <div class="container"><a class="navbar-brand logo" href="index.html">Serv</a><button data-toggle="collapse" class="navbar-toggler" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse"
+                id="navcol-1">
+                <ul class="nav navbar-nav ml-auto">
+                    <li class="nav-item" role="presentation"><a class="nav-link active" href="index.html">Home</a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="services.html">Services</a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="shopping-cart.html">Shopping Cart</a></li>
+                    <li class="nav-item" role="presentation"></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="login.html">Login</a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="registration.html">Register</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <main class="page landing-page">
+        <section class="clean-block clean-hero" style="background-image: url(&quot;assets/img/pexels-fauxels-3183132.jpg&quot;);color: rgba(20,27,33,0.85);">
+            <div class="text">
+                <h2 style="font-size: 40;">Welcome to Serv</h2>
+                <p style="color: rgb(255,255,255);">Find the perfect service to serve you</p>
+            </div>
+        </section>
+        <section class="clean-block clean-info dark">
+            <div class="container">
+                <div class="block-heading">
+                    <h2 class="text-info" style="color: rgb(0,0,0);">How Serv Can Serve You</h2>
+                    <p></p>
+                </div>
+                <div class="row align-items-center">
+                    <div class="col-md-6"><img class="img-thumbnail" src="assets/img/pexels-anthony-shkraba-4348401.jpg"></div>
+                    <div class="col-md-6">
+                        <h3>Hire Talent&nbsp;</h3>
+                        <div class="getting-started-info">
+                            <p>Get access to bright university students with a wide range of skills on offer. Signing up allows you to contact and hire sellers.&nbsp;</p>
+                        </div><button class="btn btn-outline-primary btn-lg" type="button">Join Now</button></div>
+                </div>
+            </div>
+        </section>
+        <section class="clean-block features">
+            <div class="container">
+                <div class="block-heading">
+                    <h2 class="text-info">Services you can expect to find</h2>
+                    <p>Explore and find what you are looking for. Here are some of the services you will find on our website.&nbsp;</p>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-md-5 feature-box">
+                        <h4>Logo Design</h4>
+                        <p>Work with graphic designers to create creative logos that stand out for your business needs</p>
+                    </div>
+                    <div class="col-md-5 feature-box">
+                        <h4>Web Design</h4>
+                        <p>Work with web developers to design and build your new website.&nbsp;</p>
+                    </div>
+                    <div class="col-md-5 feature-box">
+                        <h4>Coding</h4>
+                        <p>Work with developers to design and develop software to enhance the functionality of your business&nbsp;<br><br></p>
+                    </div>
+                    <div class="col-md-5 feature-box">
+                        <h4>Software Testing</h4>
+                        <p>Work with testers to implement and execute strategies that ensure software satisfies the business requirements and is delivered to the highest quality;<br><br></p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="clean-block about-us">
+            <div class="container">
+                <div class="block-heading">
+                    <h2 class="text-info">Explore</h2>
+                    <p>Explore and find the service you need now</p>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-sm-6 col-lg-4">
+                        <div class="card clean-card text-center"><img class="card-img-top w-100 d-block" src="assets/img/pexels-pixabay-270348%20(1).jpg">
+                            <div class="card-body info">
+                                <h4 class="card-title">Coding</h4>
+                                <p class="card-text">Need to turn your idea into a product? How about using one our developers</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-lg-4">
+                        <div class="card clean-card text-center"><img class="card-img-top w-100 d-block" src="assets/img/pexels-tranmautritam-245032.jpg">
+                            <div class="card-body info">
+                                <h4 class="card-title">Graphic Design</h4>
+                                <p class="card-text">Explore and find the graphic designer for you</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-lg-4">
+                        <div class="card clean-card text-center"><img class="card-img-top w-100 d-block" src="assets/img/pexels-picjumbocom-196644.jpg">
+                            <div class="card-body info">
+                                <h4 class="card-title">Web Design</h4>
+                                <p class="card-text">Explore and find the web designer for you<br><br></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer class="page-footer dark">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-3">
+                    <h5>Get started</h5>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="registration.html">Sign up</a></li>
+                    </ul>
+                </div>
+                <div class="col-sm-3">
+                    <h5>About us</h5>
+                    <ul>
+                        <li><a href="#">Company Information</a></li>
+                        <li><a href="#">Contact us</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.js"></script>
+    <script src="assets/js/smoothproducts.min.js"></script>
+    <script src="assets/js/theme.js"></script>
+</body>
+
+</html>
